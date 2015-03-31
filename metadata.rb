@@ -5,4 +5,3 @@ license 'All rights reserved'
 description 'Installs/Configures sample-app'
 long_description 'Installs/Configures sample-cookbook'
 version '0.1.1'
-
